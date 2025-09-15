@@ -23,3 +23,6 @@ It is an AI-powered student learning platform with login, subjects, quiz, motiva
    ```bash
    git clone https://github.com/YOUR_USERNAME/Pro-AI-Learning-Platform.git
    cd Pro-AI-Learning-Platform
+
+link live -https://pro--ai--learning-platformm-rxsrnbzizxcdnawyqws6vc.streamlit.app/
+
